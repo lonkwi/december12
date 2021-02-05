@@ -1,0 +1,10 @@
+time,5000,http://192.168.91.107:5000/ts_vod/00test1.ts
+time,8000,http://192.168.91.107:5000/ts_vod/00test2.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test3.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test4.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test5.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test6.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test7.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test8.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test9.ts
+time,2000,http://192.168.91.107:5000/ts_vod/00test10.ts
